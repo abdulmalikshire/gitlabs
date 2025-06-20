@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 
 main branch change
 feature branch change
 
+=======
+<<<<<<< HEAD
+main branch change
+=======
+feature branch change
+>>>>>>> eb2ad51 (update from feature-1)
+>>>>>>> 4044698 (final commit)
